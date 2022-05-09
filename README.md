@@ -1,2 +1,2 @@
 # repositorio-henry
-creación de carpeta y archivo por Githug
+creación de carpeta y archivo por Github
